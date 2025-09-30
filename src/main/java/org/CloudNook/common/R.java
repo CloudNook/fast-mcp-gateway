@@ -1,4 +1,4 @@
-package org.CloudNook.infrastructure.common;
+package org.CloudNook.common;
 
 /**
  * 通用API响应结果

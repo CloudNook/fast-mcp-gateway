@@ -1,4 +1,4 @@
-package org.CloudNook.domain.model;
+package org.CloudNook.model.entity;
 
 
 import java.util.List;
